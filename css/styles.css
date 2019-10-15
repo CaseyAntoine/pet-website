@@ -1,0 +1,26 @@
+body{
+  background-color: lightblue;
+}
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 0px;
+}
+
+h4 {
+  text-align: center;
+  font-family: fantasy;
+}
+
+img {
+  display: inline-block;
+  float: right;
+}
+
+ul {
+  font-family: sans-serif;
+  color: #eee;
+  margin-top: 0px;
+}
